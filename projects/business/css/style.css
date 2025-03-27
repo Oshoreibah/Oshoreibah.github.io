@@ -1,14 +1,14 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: black;
-    color: white; 
+    color: white;
 }
 
 header {
-    background-color: #1679dc; 
+    background-color: #1679dc;
     color: rgb(248, 244, 244);
-    padding: 3rem 0; 
-    text-align:center;
+    padding: 3rem 0;
+    text-align: center;
 }
 
 header h1 {
@@ -28,34 +28,34 @@ main {
 section img.img-fluid {
     max-width: 100%;
     height: auto;
-    border-radius: 10px; 
+    border-radius: 10px;
     margin-top: 1rem;
 }
 
 section .p-4 {
     background-color: #ffffff;
     border: 1px solid #ddd;
-    border-radius: 10px; 
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 section .p-4 h3 {
     font-size: 1.6rem;
-    color: #ff5e57; 
+    color: #ff5e57;
     margin-bottom: 1rem;
 }
 
 section .p-4 p {
     font-size: 1rem;
-    color: #555; 
+    color: #555;
 }
 
 section h2 {
-    color:#ff5e57;
+    color: #ff5e57;
 }
 
 footer {
-    background-color: #e9ecef; 
+    background-color: #e9ecef;
     color: #555;
     padding: 1rem 0;
 }
